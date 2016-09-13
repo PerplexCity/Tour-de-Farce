@@ -5,5 +5,5 @@ All of the data analysis used in the article starts by running the [citibike_par
 
 Once the race route was determined, the monthly data is fed again into a script, this time [bike_race.py](../master/bike_race.py), which simply transfers the four thousand or so routes that fit the criteria into [race_results.csv](../master/race_results.csv).
 
-Graphs were made by sorting by routes with 1000+ frequency and assiging a ranking variable in [ordered_ratios.csv](../master/ordered_ratios.csv) and then running [ratio_graphs.R]((../master/ratio_graphs.R)
+Graphs were made by sorting by routes with 1000+ frequency and assiging a ranking variable in [ordered_ratios.csv](../master/ordered_ratios.csv) and then running [ratio_graphs.R](../master/ratio_graphs.R)
 
