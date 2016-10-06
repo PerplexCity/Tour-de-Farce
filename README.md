@@ -6,4 +6,4 @@ All of the data analysis used in the article starts by running the [citibike_par
 
 Once the race route was determined, the monthly data is fed again into a script, this time [bike_race.py](../master/bike_race.py), which simply transfers the four thousand or so routes that fit the criteria into [race_results.csv](../master/race_results.csv). From there sorting by time, age, year of birth, and so on is just a few clicks in Excel.
 
-
+The density curves for Customers and Subscribers can be drawn with [rider_type.R](../master/rider_type.R).
